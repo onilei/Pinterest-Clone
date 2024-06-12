@@ -1,0 +1,38 @@
+.logout-container {
+    width: 350px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 20px;
+    background: white;
+    position: absolute;
+    right: 10px;
+    top: 60px;
+    z-index: 1001;
+  }
+  
+  .logout-section {
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  
+  .logout-section p {
+    font-weight: bold;
+  }
+  
+  .logout-button {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    display: block;
+    margin: 5px 0;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+  
+  .logout-button img {
+    margin-left: 10px;
+    vertical-align: middle;
+  }
+  
